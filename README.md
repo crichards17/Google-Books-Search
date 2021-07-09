@@ -14,6 +14,9 @@ An application allowing a user to search the Google Books library for titles, re
 <li>You can remove titles from this page using the Delete button for a given entry</li>
 </ol>
 
+## Screenshot
+![Demo](/assets/images/Sample.PNG)
+
 ## Questions  
 My GitHub profile: [crichards17](https://github/crichards17)  
 My email: [crichards1717@gmail.com](crichards1717@gmail.com)  
